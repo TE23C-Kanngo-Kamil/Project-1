@@ -10,7 +10,7 @@
   "type": "TOPDOWN",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "0022a+0f5+002+0f6+0012+0f6+002+0f7+0010+0f4+009+0f7+004+0fb+00b+0f7+003+0fb+00f+0f5+001c+0f4+00121+",
+  "collisions": "006a+0fc+0013+0f2+00a+0f2+0011+0f2+005+0f2+005+0f2+00f+0f2+004+0f6+004+0f2+00c+0f3+004+0f8+004+0f2+00b+0f!006+0f8+005+0f2+00a+0f!007+0f6+007+0f!00a+0f!007+0f6+004+0f2+00!0f!00a+0f!003+0f2+002+0f6+004+0f2+00!0f!00a+0f!003+0f2+002+0f6+004+0f2+00!0f!00a+0f!003+0f2+00c+0f2+00!0f!00a+0f!003+0f2+00f+0f!00a+0f!0014+0f!00a+0f!0014+0f!00a+0f!004+0f5+002+0f6+003+0f!005+0f6+003+0f6+002+0f7+002+0f3+003+0fa+00c+0f8+002+0fa+00c+0fa+001b+0f5+001b+0f5+0032+0f2+001e+0f2+004c+0f16+004+0f6+0015+0f!004+0f!001a+0f!004+0f!001a+0f!004+0f!005+",
   "autoFadeSpeed": 1,
   "symbol": "scene_1",
   "x": 360,
@@ -18,5 +18,6 @@
   "script": [],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "831746e0-3a1e-430a-ac18-8cb05105eff9"
 }
